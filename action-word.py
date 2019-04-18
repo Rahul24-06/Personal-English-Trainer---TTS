@@ -25,8 +25,8 @@ def intent_received(hermes, intent_message):
 
     if givenword_slot is not None:
         sentence += givenword_slot.value
-		if givenword_slot == 'Recuperate':
-			sentence += ' The meaning of Recuperate is to recover from illness or exertion'
+	if givenword_slot == 'Recuperate':
+		sentence += ' The meaning of Recuperate is to recover from illness or exertion'
 		
     # if forecast_country_slot is not None:
         # sentence += 'in ' + forecast_country_slot.value
