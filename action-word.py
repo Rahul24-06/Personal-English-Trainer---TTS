@@ -1,12 +1,3 @@
-
-    
-#    forecast_locality_slot = intent_message.slots.forecast_locality.first()
-
-    
-	
-    
-		
-
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
